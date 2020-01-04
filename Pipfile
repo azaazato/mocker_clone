@@ -10,6 +10,7 @@ cgroups = "*"
 requests = "*"
 colorama = "*"
 docopt = "*"
+terminaltables = "*"
 
 [requires]
 python_version = "3.7"

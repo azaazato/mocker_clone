@@ -3,8 +3,6 @@ import os
 import json
 import tarfile
 from mocker import _base_dir_
-import sys
-print(sys.path)
 from .base import BaseDockerCommand
 
 
